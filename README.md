@@ -1,5 +1,7 @@
 # docker-anaconda-opencv
-Docker image with Anaconda Python &amp; OpenCV
+Docker image with Anaconda Python &amp; OpenCV. Based on the
+[continuumio/anaconda](https://github.com/ContinuumIO/docker-images)
+docker file which uses Debian 7.4.
 
 # Usage
 ## Simple shell
